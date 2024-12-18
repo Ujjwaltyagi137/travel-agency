@@ -1,0 +1,61 @@
+.agency{
+    position: relative;
+    font-size: 60px;
+    bottom: 48px;
+    color: blue;
+    left: 50px;
+}
+a:link{
+    text-decoration: none;
+}
+.hotel{
+    position: relative;
+    font-size: 60px;
+    bottom: 48px;
+    color: blue;
+    left: 140px;
+}
+.holiday{
+    position: relative;
+    font-size: 60px;
+    bottom: 48px;
+    color: blue;
+    left: 220px;
+}
+body{
+    background-image: linear-gradient(145deg,#FADCD9,#F9F1F0,#F8AFA6,#F79489);
+    height: 100vh;
+}
+a:hover{
+    color: orange;
+    text-decoration: underline;
+    }
+    .container h1{
+        font-size: 100px;
+    }
+    .container table{
+        width:1200px;
+        position: relative;
+        bottom: 55px;
+    }
+    .img{
+        position: relative;
+        bottom: 50px;
+        height: 180px; 
+    }
+    .bottom table{
+        width:1240px;
+        background-color: black;
+        color: white;
+        }
+        #return{
+            position: relative;
+            left: 45%;
+            font-size: 25px;
+            bottom: 120px;
+            top: 30px;
+        }
+        .container4{
+            position: relative;
+            top:30px;
+        }
